@@ -29,7 +29,8 @@ Which generations's population positions are you interested in?
 Input the population positions of Generation ZERO.
 Output Spec:
 List of positions of living population.
-
+ 
+ ```
 Sample Input 1:
 3 
 2 1
@@ -56,7 +57,7 @@ Sample Input 3:
 3 2
 Output:
 [(1,2), (2,1), (2,3), (3,2)]
-
+```
 
 Hint:
 To know that the program works as you would expect it to work, you can print out the state of the universe to the console/output after each generation. 
